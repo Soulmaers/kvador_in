@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.26e65acd.css",
-    "main.js": "/static/js/main.4c168b9a.js",
-    "static/media/card.png": "/static/media/card.98c9f78ef3cfaf159371.png",
-    "static/media/Akrobat-ExtraBold.otf": "/static/media/Akrobat-ExtraBold.c563e35d28216ebe96ef.otf",
-    "static/media/logo.png": "/static/media/logo.f7165cc7a3b9f6f58848.png",
-    "static/media/logo_footer.png": "/static/media/logo_footer.f6628e94bbe145b04fbc.png",
-    "index.html": "/index.html",
-    "main.26e65acd.css.map": "/static/css/main.26e65acd.css.map",
-    "main.4c168b9a.js.map": "/static/js/main.4c168b9a.js.map"
+    "main.css": "/kvador_in/static/css/main.d0a1e6e7.css",
+    "main.js": "/kvador_in/static/js/main.4c168b9a.js",
+    "static/media/card.png": "/kvador_in/static/media/card.98c9f78ef3cfaf159371.png",
+    "static/media/Akrobat-ExtraBold.otf": "/kvador_in/static/media/Akrobat-ExtraBold.c563e35d28216ebe96ef.otf",
+    "static/media/logo.png": "/kvador_in/static/media/logo.f7165cc7a3b9f6f58848.png",
+    "static/media/logo_footer.png": "/kvador_in/static/media/logo_footer.f6628e94bbe145b04fbc.png",
+    "index.html": "/kvador_in/index.html",
+    "main.d0a1e6e7.css.map": "/kvador_in/static/css/main.d0a1e6e7.css.map",
+    "main.4c168b9a.js.map": "/kvador_in/static/js/main.4c168b9a.js.map"
   },
   "entrypoints": [
-    "static/css/main.26e65acd.css",
+    "static/css/main.d0a1e6e7.css",
     "static/js/main.4c168b9a.js"
   ]
 }
